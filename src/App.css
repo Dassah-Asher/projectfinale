@@ -1,0 +1,12 @@
+Navbar{
+  background-color: teal;
+}
+
+.button:hover{
+  color:blue;
+    text-decoration: none;
+    padding: 1rem 2rem;
+    border: 1px solid #3693ff;
+    border-radius: 10px;
+    font-weight: bold;
+}
